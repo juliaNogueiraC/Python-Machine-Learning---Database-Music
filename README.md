@@ -1,4 +1,8 @@
 # Projeto de Machine Learning - Python, sobre um preditor de gênero musical 
+Projeto de Machine Learning em Python: Preditor de Gênero Musical
+
+Este projeto apresenta uma implementação de um modelo de Machine Learning em Python para prever o gênero musical de uma música com base em duas variáveis principais: a idade e o gênero. O modelo utiliza uma árvore de decisão para classificar as músicas em três gêneros principais: Acoustic, Dance e HipHop.
+
 A imagem a seguir apresenta uma árvore de decisão para classificar músicas em três gêneros: Acoustic, Dance e HipHop. A árvore é composta por diversos nós, cada um representando uma pergunta ou decisão que leva a uma ramificação diferente. As folhas da árvore, representadas por retângulos, indicam a classificação final da música.
 
 ![outfile](https://github.com/juliaNogueiraC/Python-Machine-Learning---Database-Music/assets/69528739/539ec57f-9f8e-4080-b654-7cb004db2c30)
